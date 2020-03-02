@@ -1,0 +1,16 @@
+My associate id:
+844619
+Other team members:
+844530,844529,844553,844552,
+Team lead:
+844529
+My Role in team:
+1. Contact Form development 1 - All fields and validations including.
+2. Html5 Validations in placeoppintment form
+My development files:
+1. placeappointment.html
+I was strong in:
+1. Form development
+2. Html5 Validation
+I was weak in:
+1. local storage
